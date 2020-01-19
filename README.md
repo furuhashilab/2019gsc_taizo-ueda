@@ -25,6 +25,7 @@ https://docs.google.com/document/d/1l8VbFMBj1spI-erAVALvcVfAaI-Tqab8B9wG4XFmQQo/
 ## 参考文献
 SNAPTAIN S5C WiFi FPV Drone
 https://snaptain.com/products/snaptain-s5c-wifi-fpv-drone
+
 東京電力グループ・ゼンリン・楽天、「ドローンハイウェイ」を活用したドローン物流の共同検討を開始～世界初、送電設備を安全な空の道として利用した配送の実証実験に成功～
 https://www.tepcoventures.co.jp/news/2018-0712-2/
 ## 謝辞
