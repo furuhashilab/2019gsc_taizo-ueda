@@ -89,6 +89,8 @@ https://snaptain.com/products/snaptain-s5c-wifi-fpv-drone
 ・東京電力グループ・ゼンリン・楽天、「ドローンハイウェイ」を活用したドローン物流の共同検討を開始～世界初、送電設備を安全な空の道として利用した配送の実証実験に成功～
 
 https://www.tepcoventures.co.jp/news/2018-0712-2/
+
+参考文献リスト：https://docs.google.com/spreadsheets/d/1vM-OsIvlGfE0kiQxPubhylJ-mlmyRSgle_Xy7tiEZZI/edit#gid=0
 ***
 ## 謝辞
 本研究を進めるにあたり青山学院大学古橋研究室の古橋教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
