@@ -12,7 +12,7 @@ https://docs.google.com/presentation/d/1FmUF8nuasxyPJplhDiuKgrQ1J1SR8vT0-4qp_y-F
 https://docs.google.com/document/d/1l8VbFMBj1spI-erAVALvcVfAaI-Tqab8B9wG4XFmQQo/edit
 
 # 本文
-***
+
 ## はじめに
 当初私は、夢あふれるタケコプターの実現を目指していましたが、先行研究において既に実質不可能であった。だが、せっかく自腹で購入したドローンはどうしても使いたく新たにドローンと物流についてより効率的に実現するにはどうしたらいいか研究していこうと考えた。
 
